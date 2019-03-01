@@ -1,9 +1,9 @@
 # Peer-graded-Assignment-Prediction-Assignment-Writeup
 
 ---
-title: "Module 8"
-author: "kwan lee"
-date: "April 14, 2017"
+title: "Prediction Analysis"
+author: "megana Indoor"
+date: "March 1st, 2019"
 output: html_document
 ---
 
